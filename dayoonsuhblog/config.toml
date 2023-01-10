@@ -23,13 +23,3 @@ theme = 'hugo-theme-stack'
         [menu.social.params]
         icon = "brand-github"
 
-
-    [[menu.main]]
-        name = "Home"
-        url = "/"
-        weight = 10
-        identifier = "home"
-        [menu.main.params]
-            icon = "home"
-            newTab = true
-        

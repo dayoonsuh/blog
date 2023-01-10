@@ -10,4 +10,4 @@ menu:
 
 <!-- ![Resume](resume_capture.jpg) -->
 
-![Resume](sorbet.JPG)
+![Resume](resume_cap.jpeg)
