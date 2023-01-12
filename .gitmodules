@@ -1,0 +1,4 @@
+[submodule "dayoonsuhblog/public"]
+	path = dayoonsuhblog/public
+	url = https://github.com/dayoonsuh/dayoonsuh.github.io.git
+	branch = main
